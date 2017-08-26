@@ -1,0 +1,6 @@
+<library path="lib/libmavros_vision">
+	<class name="vision" type="mavplugin::OffboardPlugin" base_class_type="mavplugin::MavRosPlugin">
+		<description>Send VISION_POSITION_ESTIMATE message to FCU.</description>
+	</class>
+</library>
+
